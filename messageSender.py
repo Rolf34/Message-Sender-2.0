@@ -16,9 +16,9 @@ from telethon import TelegramClient
 import time
 
 # Configuration
-api_hash = 'ae72eecbcf1a6f7a35fd1d4ac1dfda70'  # Your API hash
-api_id = 26044482  # API id
-phone = '+380 96 935 16 44'  # Your phone number
+api_hash = '123'  # Your API hash
+api_id = 123  # API id
+phone = '123'  # Your phone number
 defaultRecipient = 'default recipient'
 
 mesaga = 'Hello world!'
